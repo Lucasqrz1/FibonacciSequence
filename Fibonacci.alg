@@ -1,8 +1,7 @@
 Algoritmo "Fibonacci"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : Imprimir na tela a sequência de Fibonacci até o 15º número
 // Data atual  : 17/09/2024
 Var
 // Seção de Declarações das variáveis 
