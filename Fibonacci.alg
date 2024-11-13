@@ -1,8 +1,4 @@
 Algoritmo "Fibonacci"
-// 
-//  
-// Descrição   : Imprimir na tela a sequência de Fibonacci até o 15º número
-// Data atual  : 17/09/2024
 Var
 // Seção de Declarações das variáveis 
    C, T1, T2, T3: inteiro
